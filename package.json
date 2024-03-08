@@ -1,0 +1,10 @@
+{
+  "name": "image-composite-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "sharp": "^0.33.2"
+  }
+}
